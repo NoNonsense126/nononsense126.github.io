@@ -382,7 +382,7 @@ This endpoint deletes a specific comment.
 
 ### HTTP Request
 
-`DELETE https://nextacademy-ios-blog.herokuapp.com/api/v1/comments/1`
+`DELETE https://nextacademy-ios-blog.herokuapp.com/api/v1/comments/<ID>`
 
 ### URL Parameters
 
